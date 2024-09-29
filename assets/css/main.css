@@ -2189,6 +2189,14 @@ input, select, textarea {
 
 /* Icons */
 
+	ul.nav {
+		cursor: default;
+		list-style: none;
+		padding-left: 0;
+	}
+
+/* Icons */
+
 	ul.icons {
 		cursor: default;
 		list-style: none;
